@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Grid Morph",
+  "description": "A 19x9 interactive spreadsheet that can morph colored data points into statistical clusters with fluid animations.",
+  "requestFramePermissions": []
+}
